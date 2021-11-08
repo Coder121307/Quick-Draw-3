@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+}
+
+#Score{
+    font-size: 20px;
+    margin-left: 100px;
+}
+
+#Timer{
+    font-size: 20px;
+    float: right;
+    margin-right: 100px;
+}
+
+#sketch_to_be_drawn{
+    font-size: 25px;
+    color: darkslateblue;
+    font-weight: bold;
+    float: center;
+}
+
+canvas{
+    margin-top: 200px; 
+}
